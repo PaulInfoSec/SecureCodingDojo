@@ -48,6 +48,6 @@
   "devDependencies": {
     "@mapbox/node-pre-gyp": "^1.0.5",
     "chai": "^4.3.4",
-    "mocha": "^6.2.2"
+    "mocha": "^10.2.0"
   }
 }
